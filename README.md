@@ -7,6 +7,9 @@ models, wrapped in an interactive Streamlit dashboard.
 Built for an engineering internship project — every file is fully
 commented so you can explain each part in an interview.
 
+## 🚀 Live Demo
+
+[Click here to view the live application](https://weather-data-analysis-and-prediction-rajyalakshmi.streamlit.app/)
 ---
 
 ## 📁 Folder Structure
