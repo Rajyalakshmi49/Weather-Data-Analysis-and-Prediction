@@ -9,7 +9,11 @@ commented so you can explain each part in an interview.
 
 ## 🚀 Live Demo
 
-[Click here to view the live application](https://weather-data-analysis-and-prediction-rajyalakshmi.streamlit.app/)
+<p style="font-size: 20px;">
+<a href="https://weather-data-analysis-and-prediction-rajyalakshmi.streamlit.app/">
+Click here to view the live application
+</a>
+</p>
 ---
 
 ## 📁 Folder Structure
